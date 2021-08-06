@@ -1,0 +1,2 @@
+cd /Applications/iproxyBar/
+python /Applications/iproxyBar/iproxy_bar.py > /dev/null 2>&1 & 
