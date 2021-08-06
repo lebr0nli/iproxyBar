@@ -1,6 +1,7 @@
 # iproxyBar
 
-A tiny menu bar app to open iproxy for macOS.
+A tiny menu bar app to open (iproxy)[https://github.com/tcurdt/iProxy] for macOS.
+
 
 ## Why?
 
